@@ -204,9 +204,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - Tina Yerne
 
-Project Link: [https://github.com/yourusername/static-website-aws-s3](https://github.com/yourusername/static-website-aws-s3)
+Project Link: [https://github.com/tinayerne04/static-website-aws-s3](https://github.com/tinayerne04/static-website-aws-s3)
 
 ---
 
